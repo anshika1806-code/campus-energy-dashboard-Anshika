@@ -1,0 +1,5 @@
+=== Campus Energy Summary ===
+Total Consumption: 413.99999999999994 kWh
+Highest Consuming Building: building_B_feb
+Peak Day Load: 52.1 kWh
+Peak Week Load: 161.9 kWh
